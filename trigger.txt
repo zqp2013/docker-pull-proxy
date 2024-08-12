@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+difya/docker:2024.8 registry.cn-shanghai.aliyuncs.com/difya/docker:2024.8

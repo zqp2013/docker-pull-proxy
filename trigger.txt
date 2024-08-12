@@ -1,1 +1,1 @@
-difya/docker:2024.8 registry.cn-shanghai.aliyuncs.com/difya/docker:2024.8
+difya/docker registry.cn-shanghai.aliyuncs.com/difya/docker
